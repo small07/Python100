@@ -1,1 +1,1 @@
-Python 100 samples practice - source from the Internet
+A GOOD START OF PYTHON -- FROM 100 EXAMPLES 
